@@ -22,3 +22,22 @@ Github and install it manually:
     python setup.py install
 
 Python 2.6 and 2.7, 3.3, 3.4, 3.5 & 3.6 are supported.
+
+Go to:
+
+	https://apps.twitter.com to Create New App
+
+Once the app has been created, navigate to Application Settings and copy off:
+
+	consumer_key='XXXX'
+	consumer_secret='XXXX'
+	access_token='XXX-XXXX'
+	access_secret='XXXX'
+
+they will give you access to modify your twitter account.
+
+Then the rest of documentation on how to implement the API can be read on:
+
+	http://docs.tweepy.org/en/v3.5.0/
+
+Thanks!
